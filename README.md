@@ -1,2 +1,2 @@
 ﻿# fblogin-bootstrap
-Deployed link: https://app.netlify.com/teams/ngelemarweapons/overview
+Deployed link: https://quirky-volhard-5f1870.netlify.app/
